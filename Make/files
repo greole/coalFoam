@@ -1,0 +1,13 @@
+classes/myCoalCombustion/coalParcel/makeCoalParcelSubmodels.C
+classes/myCoalCombustion/coalCloudList/coalCloudList.C
+classes/BiniDispersionForce/makeBiniDispersionForce.C
+classes/myGravity/makemyGravity.C
+classes/relativeVelocityInjection/makeRelativeVelocity.C
+classes/EBU/EBUs.C
+classes/EBUED/EBUEDs.C
+classes/probesContainer/probesContainer.C
+classes/particleProbe/particleProbe.C
+
+itvCoalFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/CoalFoam
